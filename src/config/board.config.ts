@@ -4,5 +4,6 @@ export const handledError = (error: any) => {
   }
 };
 export const connect = (Board: any, port: any) => {
-  return new Board(port.path);
+  const PORT = port.path
+  return new Board(PORT);
 };
