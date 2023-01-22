@@ -10,7 +10,7 @@ npm run start:dev
 este proyecto funciona con nodemon y tsc por lo que si tienes el Arduino conectado a la computadora, cada vez que guardes el codigo, este se compilara y se inyectara automaticamente en tu arduino
 
 ## Arquitectura
-Decidi darle a este proyect una arquitectura modular, similar a la que encontrariamos en un proyecto de nestjs, una gua rapida de los archivos que encontraras 
+Decidi darle a este proyect una arquitectura modular, similar a la que encontrariamos en un proyecto de nestjs, una guia rapida de los archivos que encontraras 
 
 - /config/board.config.ts:
 Aqui se encuentra la definicion del controlador de errores y el cargador del arduino
