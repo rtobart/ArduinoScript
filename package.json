@@ -1,5 +1,5 @@
 {
-  "name": "lab-1",
+  "name": "arduino-script",
   "version": "1.0.0",
   "description": "lab 1 arduino",
   "main": "main.ts",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "lab-1"
   },
-  "author": "",
+  "author": "@rtobart robinson.tobar.ti@gmail.com",
   "license": "ISC",
   "dependencies": {
     "firmata": "^2.3.0",
